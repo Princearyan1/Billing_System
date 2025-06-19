@@ -1,0 +1,15 @@
+	Welcome to Retail Store
+
+Bill Number: 2197
+Customer Name: Prince aryan
+Phone Number: 9934617617
+===========================================
+Product		QTY		Price
+===========================================
+Mazza		5		Rs.50.00
+===========================================
+Cold Drinks Tax (10%)			Rs. 5.00
+===========================================
+Total Bill:			Rs.55.00
+===========================================
+Thank you for shopping with us!

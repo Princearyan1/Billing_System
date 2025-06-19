@@ -1,0 +1,8 @@
+	Welcome to Retail Store
+
+Bill Number: 8215
+Customer Name: 
+Phone Number: 
+===========================================
+Product		QTY		Price
+===========================================
