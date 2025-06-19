@@ -50,10 +50,6 @@ Edit
 python billing_app.py
 Make sure Python is installed and added to your system’s PATH.
 
-Enjoy Billing!
-
-📸 Screenshots
-(Add screenshots here showing the GUI layout, bill generation, and price manager)
 
 🔧 Customization
 Add Items: Click on + Add Item in any category frame.
