@@ -20,4 +20,51 @@
 - 🛠️ Manage and update item prices through GUI
 - 🌓 Dark-themed modern interface with color customization
 
+- Billing_System/
+│
+├── bills/ # Saved bills stored as text files
+├── item_prices.json # Stores item prices persistently
+├── billing_app.py # Main application script
+└── README.md # Project documentation
+
+markdown
+Copy
+Edit
+
+## 🛠 Requirements
+
+- Python 3.x
+- Standard libraries only (`tkinter`, `os`, `json`, `random`)
+
+## 🚀 How to Run
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Princearyan1/Billing_System.git
+   cd Billing_System
+Run the application
+
+bash
+Copy
+Edit
+python billing_app.py
+Make sure Python is installed and added to your system’s PATH.
+
+Enjoy Billing!
+
+📸 Screenshots
+(Add screenshots here showing the GUI layout, bill generation, and price manager)
+
+🔧 Customization
+Add Items: Click on + Add Item in any category frame.
+
+Update Prices: Click Manage Prices → Choose a category → Update or remove items.
+
+Saved Bills: Found in the bills/ directory as .txt files.
+
+👨‍💻 Developed By
+Prince Aryan
+📧 princearyan9934@gmail.com
+🔗 GitHub | LinkedIn
+
 
