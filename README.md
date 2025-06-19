@@ -58,6 +58,19 @@ Update Prices: Click Manage Prices → Choose a category → Update or remove it
 
 Saved Bills: Found in the bills/ directory as .txt files.
 
+screenshots
+![first](https://github.com/user-attachments/assets/b79b9ab9-884e-4791-93bb-d4b7de15581a)
+![Screenshot 2025-06-20 000605](https://github.com/user-attachments/assets/d63e2747-8e48-4c0e-a7e9-0678f3e666a9)
+
+![Screenshot 2025-06-20 000855](https://github.com/user-attachments/assets/73164237-732b-4ece-a54e-04360aa56c07)
+
+![Screenshot 2025-06-20 000919](https://github.com/user-attachments/assets/ebfdab5d-2ea7-4489-9a42-279c97ffe2b9)
+
+![Screenshot 2025-06-20 000939](https://github.com/user-attachments/assets/66520275-da26-4704-b3b4-af8d6be3fc30)
+
+
+
+
 👨‍💻 Developed By
 Prince Aryan
 📧 princearyan9934@gmail.com
